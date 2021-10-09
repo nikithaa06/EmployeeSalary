@@ -57,3 +57,4 @@ class Salary
         System.out.println("Other Allowance:\t" + oth);
         System.out.println("Total Salary is:"+total);
     }
+}
